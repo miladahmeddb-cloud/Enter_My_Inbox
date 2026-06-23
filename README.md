@@ -144,7 +144,7 @@ Chat_room
         </div>
         
         <!-- 📍 জায়গা ২: বক্সের উপরের লাল টেক্সট অ্যাড (এখানে ক্লিক করলেও অ্যাড ওপেন হবে) -->
-        <a href="আপনার_অ্যাডস্টেরা_ডাইরেক্ট_লিংক_২" target="_blank" style="text-decoration: none; color: #ff4757; font-weight: bold; display: block; margin-bottom: 15px; font-size: 14px;">
+        <a href="https://www.effectivecpmnetwork.com/y4t36tcc?key=de12c1f66134529d306c43dcb04e5e1f" target="_blank" style="text-decoration: none; color: #ff4757; font-weight: bold; display: block; margin-bottom: 15px; font-size: 14px;">
             ⚠️ LIVE STREAM ACCESS GRANTED ⚠️
         </a>
         
@@ -153,7 +153,7 @@ Chat_room
         
         <div class="btn-container">
             <!-- 📍 জায়গা ৩: মেইন বাটন অ্যাড (সবচেয়ে হাই-পেয়িং ক্লিক) -->
-            <a href="আপনার_অ্যাডস্টেরা_ডাইরেক্ট_লিংক_৩" class="btn btn-primary" target="_blank">YES, I AM 18 OR OLDER</a>
+            <a href="https://www.effectivecpmnetwork.com/ybxy1knt?key=e2819a44aa4b6f5fe51ef0b3b0ce9e9b" class="btn btn-primary" target="_blank">YES, I AM 18 OR OLDER</a>
             <a href="https://www.google.com" class="btn btn-secondary">NO, I AM UNDER 18</a>
         </div>
         
